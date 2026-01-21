@@ -1,2 +1,2 @@
 # Elective-Laboratories
-Prelim Labs
+Prelim Laboratories
